@@ -1,35 +1,23 @@
 # Effect-of-Baclofen-treatment-on-ciliogenesis-and-GABAB-receptor-Signaling-Patway
 # Research Methods Course
 
-## Introduction
+## Importance of the Study
 
-*Nematostella vectensis* is a well-known model organism that combines a simple life cycle with well-established genomic resources, making it an excellent model for studying ciliogenesis. By the third day after fertilization, planulae are actively swimming, as their entire body is covered with primary cilia. Cilia are essential organelles in animals, specialized for cell signaling, fluid flow, and cell movement. Dysfunction in cilia can lead to severe human diseases known as ciliopathies.
+The study of GABAB receptors and ciliogenesis in *Nematostella vectensis* is crucial not only for understanding basic biological processes but also for its potential medical applications. Cilia are small organelles that play essential roles in cell movement, signal transmission, and fluid flow regulation. When their function is disrupted, it can lead to severe diseases in humans, such as polycystic kidney disease, vision problems, and congenital heart defects.
 
-## Background
+*Nematostella vectensis* is a unique organism that, despite its simplicity, shares many biological processes with more complex animals, including humans. By studying how baclofen affects cilia formation in *Nematostella*, we can gain better insights into how these processes function in other species, including humans.
 
-### GABAB-Protein-Coupled Receptor Signaling Pathway
+## Potential Medical Impact
 
-The GABAB-protein-coupled receptor signaling pathway plays a crucial role during neurogenesis in mammals. However, there are limited studies on its role in *Nematostella vectensis*. Previous research in our lab, using the human GABAB-receptor agonist drug baclofen, demonstrated that *Nematostella* planula neurogenesis, ciliogenesis, and metamorphosis were reversibly arrested. Additionally, our lab discovered that the GABAB-protein-coupled receptor signaling pathway is associated with cilia aberrations.
+If we can identify key elements in the GABAB signaling pathway that regulate ciliogenesis, it may lead to the development of new treatments for diseases associated with cilium dysfunction. Thus, our study may have significant implications not only for science but also for the development of new therapeutic approaches for various human diseases.
 
-## Study Aim
+## Working Hypothesis
 
-The primary aim of my study is to investigate the effect of baclofen on the process of ciliogenesis in planulae of *Nematostella vectensis*. Specifically, I aim to understand how baclofen affects secondary ciliogenesis after the removal of cilia.
+Previous studies have demonstrated that baclofen reduces the motility of *Nematostella* planulae and that the GABAB receptor signaling pathway is associated with impaired cilia development. **I hypothesize that baclofen affects neurotransmission in planulae, specifically impacting secondary ciliogenesis through GABAB receptor interactions.** The active movement of planulae after the removal of cilia and the addition of baclofen may be a natural response to changes in environmental chemistry.
 
-## Research Design
+## Expected Significance
 
-### Control Groups
-
-The first stage of the work will involve analyzing the movements of two control groups:
-- **Group 1:** Planulae control group
-- **Group 2:** Planulae treated with baclofen
-
-### Methodology
-
-To elucidate the changes in proteins synthesized by the planulae during secondary ciliogenesis, I will apply the Western Blot method. This technique will allow me to detect and quantify specific proteins involved in ciliogenesis.
-
-## Significance of the Study
-
-This study has the potential to open new avenues for comparative studies of cilia function and evolution. In particular, it may contribute to our understanding of cilia pathophysiology and the role of the GABAB signaling pathway in ciliopathies. By exploring these mechanisms in *Nematostella vectensis*, we may gain insights that are relevant to human health, particularly in the context of ciliopathies.
+Understanding the role of GABAB receptors in ciliogenesis could be instrumental in treating ciliopathies. The insights gained from this study may contribute to the development of therapeutic strategies targeting GABAB receptors, potentially leading to new treatments for diseases caused by ciliary dysfunction.
 
 ![alt text](https://github.com/Valeriia-Berngardt/Effect-of-Baclofen-treatment-on-ciliogenesis-and-GABAB-receptor-Signaling-Patway/blob/main/Images/181246_web.jpg)
 
