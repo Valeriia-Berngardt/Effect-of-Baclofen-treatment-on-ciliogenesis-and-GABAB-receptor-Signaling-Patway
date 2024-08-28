@@ -57,7 +57,7 @@ ggplot(Photosurvey, aes(x=site, y=Algae))+
 
 **Output:**
 
-![](../images/plot1.png)
+![](https://github.com/Valeriia-Berngardt/Effect-of-Baclofen-treatment-on-ciliogenesis-and-GABAB-receptor-Signaling-Patway/blob/main/Images/plot1.png)
 
 5. Perform Bartlett's test to check for homogeneity of variance.
 
@@ -105,7 +105,7 @@ ggplot(Photosurvey, aes(x=season, y=Algae, fill=site))+
 
 **Output:**
 
-![](../images/plot2.png)
+![](https://github.com/Valeriia-Berngardt/Effect-of-Baclofen-treatment-on-ciliogenesis-and-GABAB-receptor-Signaling-Patway/blob/main/Images/plot2.png)
 
 8. Perform a multi-factor ANOVA (ANOVA) to assess the influence of site, depth, and season factors.
 
@@ -149,7 +149,7 @@ ggplot(Photosurvey, aes(x=sampler, y=Algae))+
 
 **Output:**
 
-![](../images/plot3.png)
+![](https://github.com/Valeriia-Berngardt/Effect-of-Baclofen-treatment-on-ciliogenesis-and-GABAB-receptor-Signaling-Patway/blob/main/Images/plot3.png)
 
 ```
 #1. test homogeneity of variance
@@ -216,7 +216,7 @@ ggplot(Photosurvey, aes(x=Algae, y=Bryozoa))+
 
 **Output:**
 
-![](../images/plot3.png)
+![](https://github.com/Valeriia-Berngardt/Effect-of-Baclofen-treatment-on-ciliogenesis-and-GABAB-receptor-Signaling-Patway/blob/main/Images/plot4.png)
 
 11. This analysis helps understand the impact of various factors on the coverage of algae and other groups, and identify significant correlations between them. Visualization and statistical tests provide better insights into the data and reveal important trends.
 
