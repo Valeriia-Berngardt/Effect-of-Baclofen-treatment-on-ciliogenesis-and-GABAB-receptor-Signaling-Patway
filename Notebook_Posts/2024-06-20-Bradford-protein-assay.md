@@ -22,7 +22,7 @@ tags: Analysis, Goals
 11.	On the computer select protocol - procedure - absorbance 595. Save in excel format
 
 ### (C)
-![alt text](![404](https://github.com/user-attachments/assets/a7e67d65-8032-4be2-9664-7be810b3318f)
+![alt text](https://github.com/Valeriia-Berngardt/Effect-of-Baclofen-treatment-on-ciliogenesis-and-GABAB-receptor-Signaling-Patway/blob/main/Images/Picture1.png)
 
 ### (D)
 
