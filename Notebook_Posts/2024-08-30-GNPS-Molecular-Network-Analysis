@@ -1,0 +1,32 @@
+# GNPS Molecular Network Analysis
+
+The Global Natural Product Social Molecular Networking (GNPS) site creates a community for natural product researchers working with mass spectrometry data. For my analysis, I selected **Leukomycin A3** and **Josamycin** to study their related molecules. To achieve this, it is necessary to examine the MS/MS spectra of these molecules.
+
+## Molecular Network Overview
+
+![Figure 1](path_to_image)  
+*Figure 1. Molecular Network of "Leukomycin A3, Josamycin". The blue circle represents the known molecule 3037, while the grey circle represents the unknown molecule 2911. The box highlights the mass difference.*
+
+I decided to focus on the molecule with a molecular weight difference of **42.01** for comparison and further analysis.
+
+![Figure 2](path_to_image)  
+*Figure 2. The annotated molecule is shown at the top, and the unknown molecule is displayed at the bottom.*
+
+## Analysis of Molecular Changes
+
+To understand the molecular changes that result in a mass difference, I consulted the UNIMOD database. The table from the UNIMOD database provides information about possible protein modifications. For instance, the mass difference could be due to:
+
+- **Glutamic acid to serine** (Glu → Ser) modification
+- **Acetylation** (Acetyl) 
+- **Serine to glutamic acid** (Ser → Glu) modification
+- **Phosphoglyco-zyl-D-mannose-1-phosphorus** modification (PhosphoHex)
+
+This insight helps in hypothesizing which chemical modifications might have occurred, leading to the observed mass difference.
+
+## Conclusion
+
+The GNPS Molecular Networking platform, along with databases like UNIMOD, allows for detailed analysis of molecular modifications, providing valuable insights into the relationships between known and unknown molecules. Through this analysis, we can better understand the structural changes that contribute to mass spectrometry data variations.
+
+---
+
+*Note: Ensure that the paths to any images (like "Figure 1" and "Figure 2") are correctly linked in your GitHub repository.*
