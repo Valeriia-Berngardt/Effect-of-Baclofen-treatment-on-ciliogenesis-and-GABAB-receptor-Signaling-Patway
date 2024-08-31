@@ -9,7 +9,7 @@ The Global Natural Product Social Molecular Networking (GNPS) site creates a com
 
 I decided to focus on the molecule with a molecular weight difference of **42.01** for comparison and further analysis.
 
-![Figure 2](path_to_image)  
+![Figure 2](https://github.com/Valeriia-Berngardt/Effect-of-Baclofen-treatment-on-ciliogenesis-and-GABAB-receptor-Signaling-Patway/blob/main/Images/2.png)  
 *Figure 2. The annotated molecule is shown at the top, and the unknown molecule is displayed at the bottom.*
 
 ## Analysis of Molecular Changes
@@ -27,6 +27,3 @@ This insight helps in hypothesizing which chemical modifications might have occu
 
 The GNPS Molecular Networking platform, along with databases like UNIMOD, allows for detailed analysis of molecular modifications, providing valuable insights into the relationships between known and unknown molecules. Through this analysis, we can better understand the structural changes that contribute to mass spectrometry data variations.
 
----
-
-*Note: Ensure that the paths to any images (like "Figure 1" and "Figure 2") are correctly linked in your GitHub repository.*
